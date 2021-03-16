@@ -1,4 +1,4 @@
-# zgip_demo
+# gzip_demo
 Reducing JSON Data Size
 
 ### Compressing Requests Using the Spring RestTemplate
